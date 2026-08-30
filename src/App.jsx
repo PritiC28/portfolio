@@ -1218,7 +1218,7 @@ passion:
             <div className="form-group">
 
               <label htmlFor="name">
-                Name
+                Full Name
               </label>
 
               <input
@@ -1235,7 +1235,7 @@ passion:
             <div className="form-group">
 
               <label htmlFor="email">
-                Email
+                Email Address
               </label>
 
               <input
