@@ -176,7 +176,7 @@ return (
   <nav className="navbar">
 
     <div className="logo">
-      Priti Choubey
+      PRITI CHOUBEY
     </div>
 
     <div className="nav-links">
