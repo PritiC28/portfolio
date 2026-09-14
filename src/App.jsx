@@ -681,15 +681,15 @@ passion:
 
         <h2>
           Projects I've
-          <span>built & explored.</span>
+          <span>built & delivered.</span>
         </h2>
 
       </div>
 
       <p>
-        A selection of applications I've built to strengthen my
-        full-stack development, backend engineering, authentication,
-        and cloud technology skills.
+        A selection of applications I've built to demonstrate my
+        backend engineering, full-stack development, authentication,
+        database, and cloud technology capabilities.
       </p>
 
     </div>
@@ -803,15 +803,17 @@ passion:
           y: -8,
         }}
       >
-
         <div className="project-top">
 
           <span className="project-number">
             02
           </span>
 
-        </div>
+          <span className="project-status">
+            ● COMPLETED
+          </span>
 
+        </div>
 
         <div className="project-content">
 
@@ -820,20 +822,22 @@ passion:
           </h3>
 
           <p className="project-description">
-            A backend-focused flight management application
-            designed to handle flight operations, reservations,
-            and related REST API services.
+            A backend-driven flight management application built with
+            Java and Spring Boot. The system provides REST APIs for
+            managing flight information, schedules, seat availability,
+            pricing, and flight operations, with MySQL used for
+            persistent data storage.
           </p>
 
           <div className="project-tech">
             <span>Java</span>
             <span>Spring Boot</span>
+            <span>Spring Security</span>
             <span>REST API</span>
             <span>MySQL</span>
           </div>
 
         </div>
-
 
         <div className="project-links">
 
